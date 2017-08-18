@@ -1,0 +1,10 @@
+Producto,Segmento,Pob,saldos,tm
+TDC,Segmento 1,0.35,100,0.3
+TDC,Segmento 2,0.31,150,0.2
+TDC,Segmento 3,0.34,35,0.55
+Hipoteca,Segmento 1,0.3,80,0.35
+Hipoteca,Segmento 2,0.25,78,0.6
+Hipoteca,Segmento 3,0.45,200,0.2
+Consumo,Segmento 1,0.25,160,0.1
+Consumo,Segmento 2,0.35,130,0.9
+Consumo,Segmento 3,0.4,100,0.5
